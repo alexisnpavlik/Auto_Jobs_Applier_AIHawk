@@ -1,0 +1,101 @@
+Here's your CV converted to the desired format:
+
+---
+
+**Alexis Medina**  
+Chile  
+Email: alexis.medn@gmail.com | Phone: +57 3001588342 | AIHawk: alexis-medina | GitHub: [Your GitHub Profile URL]
+
+---
+
+**Education**  
+**Data Science**  
+Platzi (Graduation Year: 2023)
+
+**Chemical Engineering**  
+National University of the Austral Chaco (Graduation Year: 2022)
+
+---
+
+**Experience**  
+
+**Senior Data Engineer**  
+Zenta Group (2024 - Present)  
+Location: Chile | Industry: Data Engineering  
+- Led the construction of a data warehouse on Google Cloud Platform (GCP), focusing on large-scale data integration and management.  
+- Implemented a CI/CD pipeline using GitLab to automate deployment processes, ensuring seamless continuous integration.  
+- Configured and managed infrastructure as code (IaC) using Terraform, enabling efficient cloud environment management.
+
+**Data Quality Engineer**  
+Konstellation (2024)  
+Location: United States | Industry: Data Quality  
+- Implemented multiple dbt instances for the development of a new data observability platform.  
+- Developed dbt models for data transformation, executing tests to ensure data quality and accuracy.
+
+**Senior Data Engineer**  
+Rocbird (2022 - 2024)  
+Location: Argentina | Industry: Data Engineering  
+- Led the design and implementation of robust data infrastructures, incorporating AI models and pipelines for structured and unstructured data.  
+- Spearheaded the development of user-friendly chatbots using natural language processing.  
+- Headed big data projects utilizing Spark for processing large datasets and creating predictive models.
+
+**Cloud Data Engineer**  
+Nippy (2022)  
+Location: Argentina | Industry: Data Engineering  
+- Created a centralized ETL organization for efficient data integration and transformation.  
+- Introduced CI/CD systems to optimize development timelines.
+
+**Data Quality Engineer**  
+Bancor Bank (2021 - 2022)  
+Location: Argentina | Industry: Banking  
+- Developed an autonomous data quality detection system in Python, significantly enhancing data integrity.  
+- Achieved a 70% reduction in tasks performed by the data quality analyst team.
+
+**Data Intelligence Specialist**  
+Contáctica (2020 - 2021)  
+Location: Puerto Rico | Industry: Digital Marketing  
+- Spearheaded data quality assurance and tracking of campaign metrics, driving digital transformation.
+
+**Data Analyst**  
+Torre.co (07/2020 - 04/2021)  
+Location: Colombia | Industry: Digital Marketing  
+- Oversaw data quality associated with advertising campaigns, enhancing data accuracy and reliability.
+
+---
+
+**Projects**  
+**Chatbot Development**  
+Developed user-friendly chatbots utilizing natural language processing for efficient database queries.  
+Link: [Project Link]
+
+**Data Warehouse on GCP**  
+Led the construction of a data warehouse to enhance data integration and management.  
+Link: [Project Link]
+
+---
+
+**Achievements**  
+- Developed a data observability platform that improved data accuracy and reliability.  
+- Recognized for enhancing data flows, leading to significant operational efficiencies.
+
+---
+
+**Certifications**  
+- Python Professional  
+- Applied Linear Algebra for Machine Learning  
+- Data Manipulation and Transformation with Pandas and NumPy  
+
+---
+
+**Languages**  
+- English - Native  
+- Spanish - Professional  
+
+---
+
+**Interests**  
+Full-Stack Development, Data Engineering, Machine Learning, Cloud Technologies  
+
+--- 
+
+Feel free to adjust any details or add links to your projects!
