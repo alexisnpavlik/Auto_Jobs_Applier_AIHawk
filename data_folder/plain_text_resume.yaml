@@ -13,10 +13,9 @@ personal_information:
   linkedin: "https://www.linkedin.com/in/alexismed/"
 
 education_details:
-  - education_level: "Master's Degree"
+  - education_level: "Bachelor of Science"
     institution: "National University of the Austral Chaco"
     field_of_study: "Chemical Engineering"
-    final_evaluation_grade: "4.0"
     year_of_completion: "2022"
     start_date: "2017"
 
