@@ -19,7 +19,7 @@ jobTypes:
 
 date:
   all time: false
-  month: false
+  month: true
   week: true
   24 hours: true
 
@@ -30,6 +30,7 @@ positions:
   - Data Manager
   - Data Architect
   - Machine Learning Engineer
+  - AI
 
 locations:
   - Argentina
@@ -40,6 +41,7 @@ locations:
   - Peru
   - Ecuador
   - Paraguay
+  - United Arab Emirates
 
 apply_once_at_company: true
 
@@ -50,8 +52,7 @@ company_blacklist:
   - Crossover
 
 title_blacklist:
-  - word1
-  - word2
+  - hybrid
 
 job_applicants_threshold:
   min_applicants: 0
